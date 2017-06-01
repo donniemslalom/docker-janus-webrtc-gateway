@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Efa-GmbH <team@efa-gmbh.com>
+MAINTAINER Donnie Mattingly <donniem@slalom.com>
 
 # Copy installation scripts in
 COPY *.sh ./
